@@ -1,10 +1,12 @@
 import React from "react";
-import HomePage from "./components/HomePage";
+import AuthPage from "./pages/AuthPage";
+import HomePage from "./pages/HomePage";
 
 const App = () => {
   return (
     <div>
       <HomePage />
+      <AuthPage />
     </div>
   );
 };

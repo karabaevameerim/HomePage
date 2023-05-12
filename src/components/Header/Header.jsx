@@ -1,7 +1,7 @@
 
 import { Button} from '@mui/material'
 import { useEffect, useRef, useState } from 'react'
-import newMexico from "../../../assets/video/NewMexico_3.mp4"
+import newMexico from "../../assets/video/NewMexico_3.mp4"
 import "../Header/Header.css"
 
 
