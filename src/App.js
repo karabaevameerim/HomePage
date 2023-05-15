@@ -1,5 +1,6 @@
 import React from "react";
 import AuthPage from "./pages/AuthPage";
+import CreditCardPage from "./pages/CreditCardPage";
 import HomePage from "./pages/HomePage";
 
 const App = () => {
@@ -7,6 +8,7 @@ const App = () => {
     <div>
       <HomePage />
       <AuthPage />
+      <CreditCardPage />
     </div>
   );
 };
